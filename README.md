@@ -2,8 +2,7 @@
 is something about me, trying to learn trick or two.
 
 ## What the heck I'm doing
-> Some stupid idiot is apparently learning github.
-<<<<<<< HEAD
+> Some stupid idiot is apparently learning github
 
 _Pineapple does not belong to pizza_ Said some stupid italian.
 
@@ -23,9 +22,6 @@ Santa Claus is from Finland<sup>Trademark</sup>
  <img alt="Songbird" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/1920px-Eopsaltria_australis_-_Mogo_Campground.jpg">
 </picture>
 
-
-=======
-
 _Pineapple does not belong to pizza_ Said some stupid italian.
 
 **PINEAPPLE IN PIZZA IS JUST FINE! Stupid italians.**
@@ -39,7 +35,6 @@ Santa Claus is from Finland<sup>Trademark</sup>
 
 
 ### Send help!
->>>>>>> 4ba8df3010703010fb9c18956a78406b643c370f
 
 This was created by KPD87 on
 [GitHub Pages](https://pages.github.com/)

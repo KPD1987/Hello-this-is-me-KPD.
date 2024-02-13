@@ -1,4 +1,5 @@
-# This is apparently some kind of Readme where I should tell you about what I'm actually doing with this project.
+# This 
+is apparently some kind of Readme where I should tell you about what I'm actually doing with this project.
 
 ## What the heck I'm doing
 > Some stupid idiot is apparently learning github

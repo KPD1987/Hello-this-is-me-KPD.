@@ -33,8 +33,5 @@ Santa Claus is from Finland<sup>Trademark</sup>
 ```git status```
 
 
-
-### Send help!
-
 This was created by KPD87 on
 [GitHub Pages](https://pages.github.com/)
